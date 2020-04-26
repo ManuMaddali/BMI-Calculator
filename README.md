@@ -1,7 +1,7 @@
 # BMI-Calculator
 Practiced Swift development app that let's you input your weight and height to calculate your Body Mass Index(BMI). 
 
-![](BMI.gif)
+![](BMI2.gif)
 
 Demonstrated: 
 - Creating beautiful UI to make it easy for the user. 
